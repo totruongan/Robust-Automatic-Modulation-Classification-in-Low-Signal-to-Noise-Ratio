@@ -1,4 +1,4 @@
-# Robust-Automatic-Modulation-Classification-in-Low-Signal-to-Noise-Ratio
+# Robust Automatic Modulation Classification in Low Signal to Noise Ratio
 # Introduction
 This is the implementations related to our paper
 
